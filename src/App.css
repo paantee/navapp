@@ -1,0 +1,21 @@
+* {
+  text-align: center;
+  margin: auto;
+
+}
+
+nav {
+  justify-content: space-between; 
+  display: flex;
+}
+
+nav ul {
+  display: flex; 
+  list-style: none;
+  
+}
+
+nav li {
+  margin: 1rem;
+  
+}
